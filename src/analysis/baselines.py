@@ -57,7 +57,7 @@ def main():
     out = pd.DataFrame([base, vol])
     out.to_csv(EXP / "baselines.csv", index=False)
 
-    # Compare to your trained model if metrics exist
+    # Compare to  trained model if metrics exist
     mfile = Path("src/model/models/metrics.json")
     if mfile.exists():
         info = json.load(open(mfile))
