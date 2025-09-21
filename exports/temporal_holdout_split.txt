@@ -1,0 +1,11 @@
+mode=fallback
+split_time=2025-08-18 19:01:15+00:00
+train_n=3, test_n=1
+train_counts=
+label
+1    2
+0    1
+
+test_counts=
+label
+0    1

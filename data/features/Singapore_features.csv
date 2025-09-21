@@ -1,0 +1,2 @@
+hashtag,t_start,t_end,duration_hours,tweet_count_1h,tweet_count_6h,tweet_count_12h,total_tweets,avg_retweets,avg_likes,unique_users,avg_followers,verified_share,mean_sentiment,std_sentiment,acceleration,avg_degree_centrality,num_components
+Singapore,2025-08-18 16:28:39+00:00,2025-08-18 18:20:15+00:00,1.86,24,40,40,40,28.55,0.525,28,30724.4,0.0,0.31479,0.3668529751821566,-8.0,0.08098891730605284,1

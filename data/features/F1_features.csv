@@ -1,0 +1,2 @@
+hashtag,t_start,t_end,duration_hours,tweet_count_1h,tweet_count_6h,tweet_count_12h,total_tweets,avg_retweets,avg_likes,unique_users,avg_followers,verified_share,mean_sentiment,std_sentiment,acceleration,avg_degree_centrality,num_components
+F1,2025-08-18 18:39:57+00:00,2025-08-18 18:46:11+00:00,0.10388888888888889,30,30,30,30,484.6,0.0,29,8740.4,0.0,0.14862666666666666,0.23991406090978126,0.0,0.10721153846153846,1

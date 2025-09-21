@@ -1,0 +1,2 @@
+hashtag,t_start,t_end,duration_hours,tweet_count_1h,tweet_count_6h,tweet_count_12h,total_tweets,avg_retweets,avg_likes,unique_users,avg_followers,verified_share,mean_sentiment,std_sentiment,acceleration,avg_degree_centrality,num_components
+CatsOfTwitter,2025-08-19 11:18:31+00:00,2025-08-19 11:46:44+00:00,0.4702777777777778,30,30,30,30,30.766666666666666,0.2,22,2052.7,0.0,0.19888333333333333,0.4306357657257722,0.0,0.13193473193473193,1
